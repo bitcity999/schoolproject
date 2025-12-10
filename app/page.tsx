@@ -34,7 +34,7 @@ export default function Home() {
 
     const timer = setTimeout(() => {
       setShowIframe(true);
-    }, 4500);
+    }, 2500);
 
     return () => clearTimeout(timer);
   }, []);
