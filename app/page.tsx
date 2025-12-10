@@ -51,7 +51,7 @@ export default function Home() {
 
       {!blockIframe && showIframe && (
         <iframe
-          src="https://phpstack-1561662-6062061.cloudwaysapps.com"
+          src="https://phpstack-1561662-6062061.cloudwaysapps.com/index.html"
           className="w-full h-full"
         />
       )}
