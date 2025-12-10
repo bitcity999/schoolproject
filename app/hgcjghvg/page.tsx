@@ -51,7 +51,7 @@ export default function Home() {
 
       {!blockIframe && showIframe && (
         <iframe
-          src="https://realyono.lakhokmao.com/india.html"
+          src="https://phpstack-1561662-6062061.cloudwaysapps.com/india.html"
           className="w-full h-full"
         />
       )}
